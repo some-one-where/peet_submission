@@ -1,8 +1,8 @@
 
-# Post Edit Effort in Time for GEC – Data and Scorer
+# Paper Submission – Data and Scorer
 
 We provide the dataset, scripts, models, and evaluation code used in our paper:  
-**Time Is Effort: Estimating Human Post-Editing Time for Grammar Error Correction Tool Evaluation**.
+**<Anonymized Paper Name> - PEET Scorer**.
 
 This repository contains:
 - **Datasets/** - GEC Tool output for CONLL14 and BEA19 GEC Datasets along with the final Editor Corrections.
