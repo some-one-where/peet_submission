@@ -2,7 +2,7 @@
 # Paper Submission – Data and Scorer
 
 We provide the dataset, scripts, models, and evaluation code used in our paper:  
-**<Anonymized Paper Name> - PEET Scorer**.
+**Anonymized Paper Name - PEET Scorer**.
 
 This repository contains:
 - **Datasets/** - GEC Tool output for CONLL14 and BEA19 GEC Datasets along with the final Editor Corrections.
