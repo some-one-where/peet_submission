@@ -8,7 +8,7 @@ This repository contains:
 - **Datasets/** - GEC Tool output for CONLL14 and BEA19 GEC Datasets along with the final Editor Corrections.
 - **Models/** - (Statistical and Neural)  Regression for PEET Scorer.
 - **Scripts/**  - Script to calculate regression coefficient and PEET Scorer tool to evaluate GEC Tools.
-- **``instructions.md``** - File explaining all the Supplementary Material.
+- **``README.md``** - File explaining all the Supplementary Material.
 
 ---
 
@@ -33,7 +33,7 @@ For each dataset, we provide the following files:
 **Additional Training Pandas DataFrame:**
 - `combined_dataframe.pkl` – Preprocessed DataFrame combining all datasets and Tool corrections, Editor Corrections, Edit Type and Counts, Sentence Features and Time to Correct value for model training/evaluation.
 ---
-## 📂 Modelssmall/medium/large
+## 📂 Models (`small/medium/large`)
 We list the files to train different PEET Scorer models.
 
 ### **1. Statistical Model**
